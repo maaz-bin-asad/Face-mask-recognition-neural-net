@@ -7,8 +7,10 @@ The link for dataset is https://drive.google.com/drive/folders/1e2-Ms1e9ar79MMl7
 Later,the face recognition system using Haar Cascade classifiers detect faces and classify whether that frame is containing mask or not
 <h3>Libraries and Modules used</h3>
 <i>tensorflow,keras API,numpy,Open CV, Matplotlib</i>
-<ul>Terms used</ul>
+<h3>Terms Used</h3>
+<ul>
 <li><b>Transfer Learning:</b> A method to use pre trained neural networks developed by researchers which have been trained on thousands of classes.Popular neural networks are VGG16, VGG19,RESNET</li>
 <li><b>Google Colab:</b>A platform developed by Google to perform deep learning tasks efficietly on high-end virtual environment</li>
 <li><b>Tensorflow:</b>A deep learning framework by Google Brain Team which has inbuilt APIs for performing deep learning. One being Keras.</li>
+ </ul>
 
